@@ -53,9 +53,9 @@ def parse_args():
                         help='Model architecture (default: cvt13)')
 
     # Data paths
-    parser.add_argument('--train_dir', type=str, default='/work/mustakin/imagenet/ILSVRC2012_img_train',
+    parser.add_argument('--train_dir', type=str, default='/ILSVRC2012_img_train',
                         help='Path to ImageNet training directory')
-    parser.add_argument('--synset_path', type=str, default='/work/mustakin/imagenet/synset_words.txt',
+    parser.add_argument('--synset_path', type=str, default='/synset_words.txt',
                         help='Path to synset_words.txt file')
 
     return parser.parse_args()
