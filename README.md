@@ -56,6 +56,7 @@ All experiments split data into training, validation, and test sets as follows:
 | Dataset   | Training  | Validation | Test   |
 |-----------|-----------|------------|--------|
 | CIFAR-10  | 45,000    | 5,000      | 10,000 |
+| CIFAR-100  | 45,000    | 5,000      | 10,000 |
 | SVHN      | 68,257    | 5,000      | 26,032 |
 | ImageNet  | 1,220,909 | 10,000     | 50,258 |
 
