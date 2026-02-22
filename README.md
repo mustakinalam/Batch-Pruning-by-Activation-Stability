@@ -1,6 +1,7 @@
 # Batch Pruning by Activation Stability
 
-Official implementation for the paper *"Batch Pruning by Activation Stability"* (ICLR 2026).
+Official implementation for the paper *"Batch Pruning by Activation Stability"* (ICLR 2026). [[Paper]](https://openreview.net/pdf?id=TUADW7db5n)
+
 
 ## Abstract
 
